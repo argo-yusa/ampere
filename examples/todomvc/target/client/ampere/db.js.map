@@ -1,0 +1,1 @@
+{"version":3,"file":"\/Users\/kyusa\/GitHub\/ampere\/examples\/todomvc\/target\/client\/ampere\/db.js","sources":["db.cljs?rel=1440417683309"],"lineCount":11,"mappings":";AAAA;;;AAIA;;;;AAAeA,mBAGb,8BAAA,9BAACC","names":["ampere.db\/app-db","freactive.core\/atom"]}
